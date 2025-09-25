@@ -31,7 +31,7 @@ export default function UsersPage() {
   return (
     <div className="flex h-screen bg-[#222b3a]">
       {/* Left Sidebar - Telegram style */}
-  <div className="w-80 bg-[#1b232e] text-white flex flex-col border-r border-[#2a3442] h-full rounded-xl shadow-xl m-2">
+  <div className="w-80 bg-[#1b232e] text-white flex flex-col border-r border-[#2a3442] min-h-screen">
         {/* Top nav with hamburger and avatars */}
         <div className="flex items-center gap-2 px-4 py-3 border-b border-[#232f3d]">
           <button
