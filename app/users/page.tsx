@@ -14,13 +14,7 @@ const messages = [
   { fromMe: false, text: "кизлар борми?", time: "1:18 PM" },
   { fromMe: true, text: "қанқа?", time: "1:19 PM" },
   { fromMe: false, text: "оқишдами?", time: "1:19 PM" },
-  { fromMe: true, text: "ха топамиз проста қизла йигити борда уришиw кере🤣", time: "1:24 PM" },
-  { fromMe: false, text: "ха", time: "1:22 PM" },
-  { fromMe: true, text: "ха кулас", time: "2:00 PM" },
-  { fromMe: true, text: "@Muh1ddnovna", time: "4:11 PM" },
-  { fromMe: true, text: "керегмиди", time: "4:11 PM" },
-  { fromMe: true, text: "мана коринчи фардуда оқийди екан", time: "4:12 PM" },
-  { fromMe: true, text: "2005", time: "4:12 PM" },
+  
 ];
 
 export default function UsersPage() {
